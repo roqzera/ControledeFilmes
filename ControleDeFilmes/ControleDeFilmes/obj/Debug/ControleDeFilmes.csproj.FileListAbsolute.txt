@@ -1,0 +1,7 @@
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ControleDeFilmes\ControleDeFilmes\bin\Debug\ControleDeFilmes.exe.config
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ControleDeFilmes\ControleDeFilmes\bin\Debug\ControleDeFilmes.exe
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ControleDeFilmes\ControleDeFilmes\bin\Debug\ControleDeFilmes.pdb
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ControleDeFilmes\ControleDeFilmes\obj\Debug\ControleDeFilmes.csprojAssemblyReference.cache
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ControleDeFilmes\ControleDeFilmes\obj\Debug\ControleDeFilmes.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ControleDeFilmes\ControleDeFilmes\obj\Debug\ControleDeFilmes.exe
+C:\Users\guilh\Documents\facul\Curso C#\Projetos\ControleDeFilmes\ControleDeFilmes\obj\Debug\ControleDeFilmes.pdb
